@@ -5,6 +5,7 @@ Online application to view available artworks with all details including prices.
 ## Installing
 
 * Install XAMPP and Start Apache and MySQL modules.
+* Import SQL ```artist.sql``` file in phpMyAdmin by creating a new database.
 * Download the Repository files into your local machine and open ```index.html``` in localhost.
 
 ## Documentation
